@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travel Yuk</string>
+    <string name="travel_name">Tourist Attraction</string>
+    <string name="detail">Details</string>
+    <string name="muhamad_ajie_darmawan">Muhamad Ajie Darmawan</string>
+    <string name="nomor_induk">1167050096</string>
+    <string name="move_phone">Phone Number</string>
+    <string name="move_app">Social Media</string>
+    <string name="move_alamat">Address</string>
+    <string name="profil">Profile</string>
+    <string name="bahasa">Change Language</string>
+    <string name="gambar_profil">Profile Picture</string>
+</resources>

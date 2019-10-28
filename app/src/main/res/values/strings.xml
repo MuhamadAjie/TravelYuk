@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travel Yuk</string>
+    <string name="travel_name">Tempat Wisata</string>
+    <string name="detail">Detail</string>
+    <string name="muhamad_ajie_darmawan">Muhamad Ajie Darmawan</string>
+    <string name="nomor_induk">1167050096</string>
+    <string name="move_phone">Nomor Telepon</string>
+    <string name="move_app">Sosial Media</string>
+    <string name="move_alamat">Alamat</string>
+    <string name="profil">Profil</string>
+    <string name="bahasa">Ubah Bahasa</string>
+    <string name="gambar_profil">Gambar profil</string>
+    <string name="gambar_detail" translatable="false">Gambra Detail</string>
+    <string name="detail_wisata" translatable="false">Detail Wisata</string>
+    <string name="nama_tempat_wisata" translatable="false">Nama Tempat Wisata</string>
+    <string name="indonesia" translatable="false">Indonesia</string>
+    <string name="inggris" translatable="false">Inggris</string>
+    <string name="jepang" translatable="false">Jepang</string>
+    <string name="prancis" translatable="false">Prancis</string>
+</resources>
